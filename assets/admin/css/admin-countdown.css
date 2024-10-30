@@ -1,0 +1,15 @@
+#wpbody-content .countdown-timer-metabox-holder {
+    padding-top: 5px;
+}
+
+.countdown-timer-inf {
+    display: none;
+}
+
+.countdown-timer-metabox-holder .form-table th {
+    padding: 20px 10px;
+}
+
+.countdown-timer-metabox-holder h2 {
+    margin-left: 8px;
+}

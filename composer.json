@@ -1,0 +1,14 @@
+{
+    "name": "countdown-timer-infinite/countdowncdt",
+    "description": "A plugin for countdown timer to your website",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CountdownCdt\\Helper\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}
